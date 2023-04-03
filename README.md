@@ -25,9 +25,20 @@ Please, fill the following sections about your project.
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+#### Overview
+In this data visualization project, we aim to analyze and display the conversational patterns and emotional expressions of the characters in the popular American sitcom "Friends," which aired for ten seasons in the 1990s. The dataset we are working with contains 236 episodes, 3,107 scenes (conversations), 67,373 utterances, and 700 characters (users). By visualizing this data, we hope to gain insights into the dynamics of the show's interactions, character relationships, and emotional expressions.
+
+#### Motivation
+The motivation behind this project is to explore the conversations in a widely popular TV show and understand the factors that made it engaging for millions of viewers. By analyzing and visualizing the data, we can uncover patterns and trends in the characters' interactions and emotions, providing a unique perspective on the show's storytelling and character development.
+
+#### Target Audience
+Our target audience includes fans of the TV show "Friends," data visualization enthusiasts, and media scholars interested in understanding the conversational dynamics and emotions of a popular TV series. This project will be valuable to those who want to explore the nuances of character interactions in a television series in an engaging and accessible manner.
+
+#### Main Axes
+- **Conversational dynamics**: We will analyze and visualize the conversational patterns among the characters, including the frequency and length of conversations, the distribution of conversations across seasons, and the characters' participation in dialogues.
+- **Emotional expressions**: By studying the emotional expressions in the conversations, we will visualize the emotional arcs of the characters throughout the series and identify patterns in the emotions displayed by different characters.
+- **Character relationships**: We will explore the relationships between the characters by examining their interactions and the emotional expressions exchanged. This will help us identify the key relationships in the show and how they evolve over time.
+
 
 ### Exploratory Data Analysis
 

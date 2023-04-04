@@ -19,9 +19,14 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+The dataset we're going to use is Friends Corpus (available here), a collection of the scripts of the worldwide famous TV series Friends, collecting every utterance of the series.
+
+This dataset is already very valuable to us, and won't need any data cleaning, as it's already organized in three ways:
+ - Speaker-level information: we can filter the data based on a speakers' set, where speakers are characters of the series with a special speaker TRANSCRIPT_NODE for utterances not related to a speaker speaking (e.g. [Rachel stands up])
+ - Utterance-level information: utterances provide various details. An id to identify them based on the season, episode, scene, and # of utterances, the speaker, the utterance that he's replying to, the id of the conversation it belongs to, and the content of the utterance.
+ - Conversation-level information: as mentioned at the link above, 'Conversations represent scenes of the show. They are indexed by the id sXX-eYY-cZZ, where XX denotes the season (e.g. 01), YY denotes the episode (e.g. 01), ZZ denotes the conversation (e.g. 01)'
+
+The only cases in which we’ll need to do some data cleaning will be when using TRANSCRIPT_NODE or emotions, as not all the lines are provided with information about this, so we’ll be forced to do some filtering to use only the lines having this information.
 
 ### Problematic
 
@@ -42,8 +47,7 @@ Our target audience includes fans of the TV show "Friends," data visualization e
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+We import everything and plot a first visual sketch of the values of our dataset. Everything is available in the notebook.
 
 ### Related work
 

@@ -52,23 +52,23 @@ We import everything and plot a first visual sketch of the values of our dataset
 ### Related work
 
 Given the popularity of the show, there are plenty of available datasets regarding the show’s transcripts. Here’s a list of the relevant works we have found (note that none use the exact dataset that will be used in the project, but similar variations):
-Analysis of the different season’s transcripts
-Goal of the analysis: find who the main character of the show is by inspecting metrics on lines and appearances in the different episodes.
-Results and statistical analysis available here
-General purpose data visualization using a Friends dataset
-Goal of the analysis: explore and analyze the transcript data for personal interest, and as a challenge activity.
-Results and visualization available here
-Data analysis using a Natural Language Understanding (NLU) Model
-Goal of the analysis: explore the emotional element of the character’s lines and profile their overall personality using an AI model, IBM’s Watson suite for the automated classification of each line.
-Results and visualization available here
+- Analysis of the different season’s transcripts
+ - Goal of the analysis: find who the main character of the show is by inspecting metrics on lines and appearances in the different episodes.
+ - Results and statistical analysis available [here](https://yashuseth.wordpress.com/2017/12/29/data-analysis-lead-character-of-friends-data-science/)
+- General purpose data visualization using a Friends dataset
+ - Goal of the analysis: explore and analyze the transcript data for personal interest, and as a challenge activity.
+ - Results and visualization available [here](https://medium.com/analytics-vidhya/data-visualization-with-friends-426ebc733886)
+- Data analysis using a Natural Language Understanding (NLU) Model
+ - Goal of the analysis: explore the emotional element of the character’s lines and profile their overall personality using an AI model, IBM’s Watson suite for the automated classification of each line.
+ - Results and visualization available [here](https://towardsdatascience.com/sentiment-analysis-of-the-lead-characters-on-f-r-i-e-n-d-s-51aa5abf1fa6)
 
 All of these projects differ from our intended approach in that they use standard, objective metrics to deduce a conclusion (e.g.: who speaks more, who appears more on screen, etc.) or do not include native data relating to character emotions, which is generated with some form of post-processing.
 
 #### Previous work on the dataset
-No group member(s) have previously worked with this dataset, or similarly themed previously or currently.
+No group member(s) have previously worked with this dataset, or similarly themed previously.
 
 #### Inspiration
-Our main source of inspiration is the one about the Beatles’ music over the years, the theming of the lyrics and their success depending on the keyword of the songs, as written by the different members. It is available here. We especially want to develop a visualization that, as this one, enables filtering the data according to each character, and their profiling based on their lines and interactions with the other characters.
+Our main source of inspiration is the one about the [Beatles’ music over the years](https://duelingdata.blogspot.com/2016/01/the-beatles.html), the theming of the lyrics and their success depending on the keyword of the songs, as written by the different members. We especially want to develop a visualization that, as this one, enables filtering the data according to each character, and their profiling based on their lines and interactions with the other characters.
 
 ## Milestone 2 (7th May, 5pm)
 

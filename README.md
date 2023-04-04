@@ -51,11 +51,24 @@ We import everything and plot a first visual sketch of the values of our dataset
 
 ### Related work
 
+Given the popularity of the show, there are plenty of available datasets regarding the show’s transcripts. Here’s a list of the relevant works we have found (note that none use the exact dataset that will be used in the project, but similar variations):
+Analysis of the different season’s transcripts
+Goal of the analysis: find who the main character of the show is by inspecting metrics on lines and appearances in the different episodes.
+Results and statistical analysis available here
+General purpose data visualization using a Friends dataset
+Goal of the analysis: explore and analyze the transcript data for personal interest, and as a challenge activity.
+Results and visualization available here
+Data analysis using a Natural Language Understanding (NLU) Model
+Goal of the analysis: explore the emotional element of the character’s lines and profile their overall personality using an AI model, IBM’s Watson suite for the automated classification of each line.
+Results and visualization available here
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+All of these projects differ from our intended approach in that they use standard, objective metrics to deduce a conclusion (e.g.: who speaks more, who appears more on screen, etc.) or do not include native data relating to character emotions, which is generated with some form of post-processing.
+
+#### Previous work on the dataset
+No group member(s) have previously worked with this dataset, or similarly themed previously or currently.
+
+#### Inspiration
+Our main source of inspiration is the one about the Beatles’ music over the years, the theming of the lyrics and their success depending on the keyword of the songs, as written by the different members. It is available here. We especially want to develop a visualization that, as this one, enables filtering the data according to each character, and their profiling based on their lines and interactions with the other characters.
 
 ## Milestone 2 (7th May, 5pm)
 

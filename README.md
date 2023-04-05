@@ -19,7 +19,7 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-The dataset we're going to use is Friends Corpus (available here), a collection of the scripts of the worldwide famous TV series Friends, collecting every utterance of the series.
+The dataset we're going to use is Friends Corpus (available [here](https://convokit.cornell.edu/documentation/friends.html)), a collection of the scripts of the worldwide famous TV series Friends, collecting every utterance of the series.
 
 This dataset is already very valuable to us, and won't need any data cleaning, as it's already organized in three ways:
  - Speaker-level information: we can filter the data based on a speakers' set, where speakers are characters of the series with a special speaker TRANSCRIPT_NODE for utterances not related to a speaker speaking (e.g. [Rachel stands up])

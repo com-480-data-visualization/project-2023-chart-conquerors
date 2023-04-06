@@ -47,7 +47,7 @@ Our target audience includes fans of the TV show "Friends," data visualization e
 
 ### Exploratory Data Analysis
 
-We import everything and plot a first visual sketch of the values of our dataset. Everything is available in the notebook.
+We import everything and plot a first visual sketch of the values of our dataset. Everything is available in the  [jupyter notebook](milestone1.ipynb).
 
 ### Related work
 

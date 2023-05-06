@@ -1,3 +1,4 @@
+
 # Project of Data Visualization (COM-480)
 
 | Student's name | SCIPER |
@@ -73,6 +74,26 @@ Our main source of inspiration is the one about the [Beatles’ music over the y
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
+
+
+### Visualizations descriptions
+
+#### -**Viz 1: Network Graph**:
+This visualization will represent how characters interact with each other. We want to display which characters talk more with which characters, which characters like to gossip and who do they like to gossip about, what words and phrases are used when talking about a certain character, and what are the words and phrases more associated between the characters. Here is a sketch of how we would like the visualization to be:
+
+![Screenshot 2023-05-06 191831](https://user-images.githubusercontent.com/71851119/236638174-7522c431-05b0-4496-861c-1b6775b3aa30.png)
+
+Here we can see the main characters, and the most important second characters. The color of each edge would represent the number of interactions or gossips between each character, the darker the color is, the more interactions between those 2 characters there are. It will also be possible to click on the nodes and edges. 
+
+![Screenshot 2023-05-06 193215](https://user-images.githubusercontent.com/71851119/236638716-95e3aa2e-93c7-4274-9716-5a2f8b679f82.png)
+
+We can see that when a node is cliked, we will give general information about that user, such as the name, maybe a description if it's a secondary character for people who are not familiar with the TV show, in this example Janice would be "Chandler's ex-girlfriend", we also want to display what character does she like to interact more with or gossip more about, and words and phrases that are used specially by that character.
+
+![Screenshot 2023-05-06 194012](https://user-images.githubusercontent.com/71851119/236638982-938cf926-62e0-46f6-acbb-51cd9fe3c9d9.png)
+
+And when clicking an edge we want to give information related specifically about those two characters, what topics do they talk about, what sentences and words do they exchange usually between them. With this plot we aim to give an interactive and insightful experience to users to understand and explore more about the different relationships about the characters.
+
+
 
 
 ## Milestone 3 (4th June, 5pm)

@@ -76,6 +76,10 @@ Our main source of inspiration is the one about the [Beatles’ music over the y
 **10% of the final grade**
 
 
+### [Demo](https://mateo762.github.io/friends-tv-visualization/)
+
+
+
 ### Visualizations descriptions
 
 #### -**Viz 1: Network Graph**:

@@ -134,6 +134,25 @@ The current placeholder of the visualization available is shown here:
 
 <img width="1023" alt="Screenshot 2023-05-07 at 11 43 26" src="https://user-images.githubusercontent.com/101348287/236670016-0bf54131-db77-4312-8e28-0d493fe656d1.png">
 
+
+#### -**Viz 3: Bar charts and scatterplots**:
+The idea for this visualization is to show the link between a character appearances, number of lines and numbers of words to provide insights on how this are related between each other. The bar chart will display the number of appearances of each character. Aligned with it, right below it, there will be two scatterplots initially empty that will display the number of lines on each appearance and the number of words on each line of the character we're hovering or clicking in the bar chart. Also, a bar chart with the character's favourite words will be displayed, displaying for each word their number of occurences sorted from most to less used. This sketch shows the initial state of the visualization:
+![Project Sketch 1](https://user-images.githubusercontent.com/79453782/236684264-19c116a1-7f04-4534-8799-f65d62b83b19.jpeg)
+
+On hover or click, the scatterplots and words' barchart will show the data as follows:
+![Project Sketch 2](https://user-images.githubusercontent.com/79453782/236684330-c8da732c-c21e-4fe5-874c-2f940b0d39c0.jpeg)
+
+The complete process:
+![Project Sketch 3](https://user-images.githubusercontent.com/79453782/236684344-bb8cc83e-12ee-4f44-bf42-354d72d489bf.jpeg)
+
+
+Finally, the list of course materials relating to this visualization which have been and will be useful in the development of this visualization are:
+- Mark and channels
+  — Visual attributes, shapes, sizes, saturation, perception, separability
+- Perception and color
+  — Visual popup, boundary detection, proximity, similarity
+- Tabular data
+
 ### Functional project prototype review
 [Website](https://mateo762.github.io/friends-tv-visualization/) | [GitHub](https://github.com/mateo762/friends-tv-visualization)
 

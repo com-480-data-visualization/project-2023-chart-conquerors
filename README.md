@@ -94,6 +94,32 @@ We can see that when a node is cliked, we will give general information about th
 And when clicking an edge we want to give information related specifically about those two characters, what topics do they talk about, what sentences and words do they exchange usually between them. With this plot we aim to give an interactive and insightful experience to users to understand and explore more about the different relationships about the characters.
 
 
+#### -**Viz 2: Pie chart scatterplot**:
+The goal of this visualization is to show the emotional split in the main characters' dialogue. Each character will be displayed as a pie chart highlighting the different emotions and their proportion over their whole dialogue, the user being able to hover over each sector to uncover additional information. Aside from them will be a legend providing the color coding used as well as some additional information relating to the data being displayed. Clicking on legend items will enable filtering the sectors by the different emotions and observing which of these characters show more or less of it. The emotional data is taken from individual dialogue lines from the different episodes, so the piecharts will be placed along a horizontal axis enabling selecting a range of seasons. Vertically, the piecharts will be sorted with variable height depending on number of lines spoken in that period. This information can be displayed upon clicking or hovering each character's image, centered in the pie chart. These skteched show the initial concept design for this visualization.
+
+![sketch1](https://user-images.githubusercontent.com/101348287/236669740-01122fbd-b5ac-479e-a22a-c4d7ab5f21a6.jpg)
+
+
+The following prototypes show a more detailed view of a possible look and behavior of the final visualization. Some of the more cosmetic aspects (including hover actions changed for static displays in suitable positions) could be modified without sacrficing the experience and meaning of the visualization.
+
+![sketch3](https://user-images.githubusercontent.com/101348287/236669840-6af94a11-9616-47bf-8c9e-52f037709872.jpg)
+
+![sketch4](https://user-images.githubusercontent.com/101348287/236669846-3c8417de-0752-4920-ad55-d7a313b30d90.jpg)
+
+![sketch5](https://user-images.githubusercontent.com/101348287/236669850-cb6e4379-5f5b-4a02-b327-1a3385828d27.jpg)
+
+Finally, the list of course materials relating to this visualization which have been and will be useful in the development of this visualization are:
+- Mark and channels
+  — Visual attributes, shapes, sizes, saturation, perception, separability
+- Perception and color
+  — Visual popup, boundary detection, proximity, similarity
+- Interactions
+  — Transitions, attribute reduction, linked views, partitioning
+- Tabular data
+
+The current placeholder of the visualization available is shown here:
+
+<img width="1023" alt="Screenshot 2023-05-07 at 11 43 26" src="https://user-images.githubusercontent.com/101348287/236670016-0bf54131-db77-4312-8e28-0d493fe656d1.png">
 
 
 ## Milestone 3 (4th June, 5pm)

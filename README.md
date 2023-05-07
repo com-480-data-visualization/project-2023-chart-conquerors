@@ -134,6 +134,8 @@ The current placeholder of the visualization available is shown here:
 
 <img width="1023" alt="Screenshot 2023-05-07 at 11 43 26" src="https://user-images.githubusercontent.com/101348287/236670016-0bf54131-db77-4312-8e28-0d493fe656d1.png">
 
+### Functional project prototype review
+[Website](https://mateo762.github.io/friends-tv-visualization/) | [GitHub](https://github.com/mateo762/friends-tv-visualization)
 
 ## Milestone 3 (4th June, 5pm)
 

@@ -166,6 +166,10 @@ Website: [friends](https://mateo762.github.io/friends-tv-visualization/)
 
 Process book: [link](https://github.com/com-480-data-visualization/project-2023-chart-conquerors/blob/master/Process%20Book.pdf) 
 
+Screencast: [link](https://www.youtube.com/watch?v=Ml0kM6xb1PQ)
+
+Data used: [link](https://github.com/mateo762/mateo762.github.io/tree/main/friends_data)
+
 
 ## Late policy
 

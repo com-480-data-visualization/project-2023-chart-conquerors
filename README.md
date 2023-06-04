@@ -160,6 +160,12 @@ Finally, the list of course materials relating to this visualization which have 
 
 **80% of the final grade**
 
+All the code is available [here](https://github.com/mateo762/friends-tv-visualization)
+
+Website: [friends](https://mateo762.github.io/friends-tv-visualization/) 
+
+Process book: [link](https://github.com/com-480-data-visualization/project-2023-chart-conquerors/blob/master/Process%20Book.pdf) 
+
 
 ## Late policy
 
